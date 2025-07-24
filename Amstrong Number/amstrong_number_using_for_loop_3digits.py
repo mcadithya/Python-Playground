@@ -1,4 +1,4 @@
-#calculate Amstrong number
+#calculate Armstrong number
 
 num = int(input("enter the number : "))
 
@@ -14,6 +14,6 @@ for i in range(3):
 
     num_copy//10 
 
-result= f"{num} is Amstrong" if num==sum else f"{num} is not a amstrong number"
+result= f"{num} is Armstrong" if num==sum else f"{num} is not a amstrong number"
 
 print(result)
