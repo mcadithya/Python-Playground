@@ -1,0 +1,7 @@
+num1
+_num
+_name
+Number1
+Num_1
+__hello
+_greet_word

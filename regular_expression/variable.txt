@@ -1,0 +1,14 @@
+num1
+_num
+1names
+1basic_details
+_name
+Number1
+Num_1
+5_age
+__hello
+_greet_word
+place$
+add*
+add#ress
+asd ik
