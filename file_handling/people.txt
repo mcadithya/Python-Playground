@@ -1,0 +1,9 @@
+john,16
+james,18
+anna,10
+peter,21
+jacob,25
+alex,12
+mary,17
+mariyam,19
+stephen,26
